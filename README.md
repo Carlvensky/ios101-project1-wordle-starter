@@ -1,29 +1,30 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: Carlvensky St Fleur
 
-**Name of your app** is an app that ... [TODO] 
+Wordle is an app that let's you guess a 5 letter word in 6 try or less.
 
-Time spent: **X** hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [X] App displays a keyboard on the screen
+- [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [X] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [X] Improve and customize the user interface by adding a launchscreen and app icon
+- [X] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+https://youtu.be/Gw2LZ2oyPxc
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
@@ -36,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Carlvensky St Fleur]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
